@@ -1,0 +1,17 @@
+html{
+  background: #969696;
+}
+
+.styleit{
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(2px);
+  display: flex;
+  border-radius: 40px;
+  justify-content: space-between;
+  padding: 2rem;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 1rem;
+}
